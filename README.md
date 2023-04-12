@@ -1,10 +1,10 @@
-# Hey, I'm Aaron - aka Kaxon
+## About
 
-I'm a Java Software Engineer and recent Cybersecurity Engineering Graduate with experience developing professional, modular software.
+Java Software Engineer and recent Cybersecurity Engineering Graduate with four years experience developing professional modular software.
 
 ## Current Focus
 
-While I can't share too many details of current projects due to NDAs, I am always striving to deepen my knowledge and expertise across technologies. Some of the recent tools and technologies I have been working with include:
+Many details of ongoing projects are restricted by NDAs, though I'm always striving to deepen my knowledge and expertise across technologies. Most recently used languages and tools involve:
 
 - Java and Kotlin ☕
 - C# and .NET ©️
@@ -14,6 +14,6 @@ While I can't share too many details of current projects due to NDAs, I am alway
 
 ## Contact Me
 
-If you'd like to learn more about my experience or discuss your project needs, don't hesitate to reach out to me directly. You can [email me](mailto:aaron@kaxon.dev) or connect with me on [LinkedIn](https://www.linkedin.com/in/aaronbotto/).
+If you'd like to learn more about my experience or discuss your project needs, don't hesitate to reach out. You can [email](mailto:aaron@kaxon.dev) or connect with me on [LinkedIn](https://www.linkedin.com/in/aaronbotto/).
 
-Thank you for visiting!
+Thanks for visiting!
