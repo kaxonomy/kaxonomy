@@ -1,10 +1,10 @@
 ## About
 
-Java Software Engineer and recent Cybersecurity Engineering Graduate with four years experience developing professional modular software.
+Java Software Engineer and recent Cybersecurity Engineering Graduate with four years experience developing professional modular software
 
 ## Current Focus
 
-Many details of ongoing projects are restricted by NDAs, though I'm always striving to deepen my knowledge and expertise across technologies. Most recently used languages and tools involve:
+Many details of ongoing projects are restricted by NDAs, though I'm always striving to deepen my knowledge and expertise across technologies. Most recent used languages and frameworks involve:
 
 - Java and Kotlin ☕
 - C# and .NET ©️
@@ -14,6 +14,6 @@ Many details of ongoing projects are restricted by NDAs, though I'm always striv
 
 ## Contact Me
 
-If you'd like to learn more about my experience or discuss your project needs, don't hesitate to reach out. You can [email](mailto:aaron@kaxon.dev) or connect with me on [LinkedIn](https://www.linkedin.com/in/aaronbotto/).
+If you'd like to learn more or discuss an opportunity, [email](mailto:aaron@kaxon.dev) or connect on [LinkedIn](https://www.linkedin.com/in/aaronbotto/).
 
 Thanks for visiting!
