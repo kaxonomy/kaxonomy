@@ -4,13 +4,20 @@ A versatile software developer with a love for Java and object-oriented programm
 
 ## Current Focus
 
-Details of ongoing projects are restricted by NDAs. Notable languages and frameworks I use:
+Details of ongoing projects are restricted by NDAs. Notable technologies and tools I use include:
 
+**Programming Languages:**
 - Java and Kotlin ☕
 - Golang, C# and .NET ©️
+
+**Tools and Platforms:**
 - Git and Docker 🐳
 - Debian-based Linux distros 🐧
-- MongoDB 🍃, Redis 🚀, and MySQL 🐬
+
+**Databases:**
+- MongoDB 🍃
+- Redis 🚀
+- MySQL 🐬
 
 ## Contact Me
 
