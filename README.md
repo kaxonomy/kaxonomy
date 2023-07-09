@@ -4,7 +4,7 @@ A versatile software developer with a love for Java and object-oriented programm
 
 ## Current Focus
 
-Many details of ongoing projects are restricted by NDAs. Most notable languages and frameworks I use involve:
+Details of ongoing projects are restricted by NDAs. Notable languages and frameworks I use:
 
 - Java and Kotlin ☕
 - Golang, C# and .NET ©️
