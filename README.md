@@ -1,13 +1,13 @@
 ## About
 
-Java Software Engineer and recent Cybersecurity Engineering Graduate with four years experience developing professional modular software
+A versatile software developer with a love for Java and object-oriented programming languages.
 
 ## Current Focus
 
-Many details of ongoing projects are restricted by NDAs, though I'm always striving to deepen my knowledge and expertise across technologies. Most recent used languages and frameworks involve:
+Many details of ongoing projects are restricted by NDAs. Most notable languages and frameworks I use involve:
 
 - Java and Kotlin ☕
-- C# and .NET ©️
+- Golang, C# and .NET ©️
 - Git and Docker 🐳
 - Debian-based Linux distros 🐧
 - MongoDB 🍃, Redis 🚀, and MySQL 🐬
