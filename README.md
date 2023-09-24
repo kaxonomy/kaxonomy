@@ -17,6 +17,12 @@ A versatile software developer with a passion for Java and object-oriented progr
 - Redis <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="20" height="20"/>
 - MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20"/>
 
+**Automation:**
+- Selenium <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="20" height="20"/>
+- Playwright <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" width="20" height="20"/>
+- Puppeteer <img src="https://static-00.iconduck.com/assets.00/puppeteer-icon-342x512-udcyam91.png" alt="Puppeteer" width="20" height="20"/>
+- Cypress <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" alt="Cypress" width="20" height="20"/>
+
 *Details of most ongoing projects are restricted by Non-Disclosure Agreements.
 
 ## Connect with me:
