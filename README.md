@@ -28,4 +28,4 @@ A versatile software developer with a passion for Java and object-oriented progr
 ## Connect with me:
 <a href="https://www.linkedin.com/in/aaronbotto" title="Connect on LinkedIn"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" alt="LinkedIn" width="64" height="64"></a>
 <a href="mailto:aaron@kaxon.dev" title="Send an email"><img src="https://static-00.iconduck.com/assets.00/mailfence-icon-512x512-5t4r9qeo.png" alt="Mailfence" width="64" height="64"></a>
-<a href="https://github.com/kaxlabs" title="Username: Kaxon"><img src="https://static-00.iconduck.com/assets.00/discord-icon-512x512-xtx725no.png" alt="Discord" width="64" height="64"></a>
+<a href="https://github.com/kaxlabs#connect-with-me" title="Username: Kaxon"><img src="https://static-00.iconduck.com/assets.00/discord-icon-512x512-xtx725no.png" alt="Discord" width="64" height="64"></a>
