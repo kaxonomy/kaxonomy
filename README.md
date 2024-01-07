@@ -1,6 +1,6 @@
 ## About
 
-A versatile software developer with a passion for Java and object-oriented programming languages.
+A versatile software developer with a passion for Java and low-level programming languages.
 
 ## Current Focus*
 
