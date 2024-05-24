@@ -1,6 +1,6 @@
 ## About
 
-A versatile software engineer with a passion for Java and low-level programming languages.
+A versatile software engineer with a passion for learning.
 
 ## Current Focus*
 
@@ -8,9 +8,10 @@ A versatile software engineer with a passion for Java and low-level programming 
 <summary><strong>Programming Languages</strong></summary>
 
 - Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/>
+- C# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/>
+- TypeScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"/>
 - Kotlin <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="20" height="20"/>
 - Python <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="20" height="20"/>
-- C# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/>
 - Golang <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="20" height="20"/>
 
 </details>
@@ -37,14 +38,14 @@ A versatile software engineer with a passion for Java and low-level programming 
 <details>
 <summary><strong>Automation</strong></summary>
 
-- Selenium <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="20" height="20"/>
 - Playwright <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" width="20" height="20"/>
+- Selenium <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="20" height="20"/>
 - Puppeteer <img src="https://static-00.iconduck.com/assets.00/puppeteer-icon-342x512-udcyam91.png" alt="Puppeteer" width="20" height="20"/>
 - Cypress <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" alt="Cypress" width="20" height="20"/>
 
 </details>
 
-*Details of most ongoing projects are restricted by Non-Disclosure Agreements.
+*Details of significant projects are likely restricted by Non-Disclosure Agreements.
 
 ## Connect with me
 
