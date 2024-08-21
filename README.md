@@ -40,8 +40,8 @@ A versatile software engineer with a passion for learning.
 
 - Playwright <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" width="20" height="20"/>
 - Selenium <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="20" height="20"/>
-- Puppeteer <img src="https://static-00.iconduck.com/assets.00/puppeteer-icon-342x512-udcyam91.png" alt="Puppeteer" width="20" height="20"/>
-- Cypress <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" alt="Cypress" width="20" height="20"/>
+- Puppeteer <img src="https://rawcdn.githack.com/kaxlabs/CDN/f98f1a0ecc7c5101c22e1147c765cb302651c935/puppeteer-icon-342x512.png" alt="Puppeteer" width="20" height="20"/>
+- Cypress <img src="https://rawcdn.githack.com/kaxlabs/CDN/f98f1a0ecc7c5101c22e1147c765cb302651c935/cypress-icon-512x511.png" alt="Cypress" width="20" height="20"/>
 
 </details>
 
@@ -49,6 +49,6 @@ A versatile software engineer with a passion for learning.
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/aaronbotto" title="Connect on LinkedIn"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" alt="LinkedIn" width="64" height="64"></a>
-<a href="mailto:aaron@kaxon.dev" title="Send an email"><img src="https://static-00.iconduck.com/assets.00/mailfence-icon-512x512-5t4r9qeo.png" alt="Mailfence" width="64" height="64"></a>
-<a href="https://github.com/kaxlabs" title="Username: Kaxon"><img src="https://static-00.iconduck.com/assets.00/discord-icon-512x512-xtx725no.png" alt="Discord" width="64" height="64"></a>
+<a href="https://www.linkedin.com/in/aaronbotto" title="Connect on LinkedIn"><img src="https://rawcdn.githack.com/kaxlabs/CDN/e545eaaba3b3af17494cd58a219a5a943979f9a0/linkedin-icon-512x512.png" alt="LinkedIn" width="64" height="64"></a>
+<a href="mailto:aaron@kaxon.dev" title="Send an email"><img src="https://rawcdn.githack.com/kaxlabs/CDN/e545eaaba3b3af17494cd58a219a5a943979f9a0/mailfence-icon-512x512.png" alt="Mailfence" width="64" height="64"></a>
+<a href="https://github.com/kaxlabs" title="Username: Kaxon"><img src="https://rawcdn.githack.com/kaxlabs/CDN/e545eaaba3b3af17494cd58a219a5a943979f9a0/discord-icon-512x512.png" alt="Discord" width="64" height="64"></a>
