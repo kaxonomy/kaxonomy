@@ -1,6 +1,6 @@
 ## About
 
-A versatile software engineer with a passion for learning.
+probably debugging when I should be networking
 
 ## Current Focus*
 
@@ -19,10 +19,11 @@ A versatile software engineer with a passion for learning.
 <details>
 <summary><strong>Tools and Platforms</strong></summary>
 
+- React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20"/>
 - Git <img src="https://raw.githack.com/kaxlabs/CDN/main/git-scm-icon.svg" alt="Git" width="20" height="20"/>
 - Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="20" height="20"/>
 - .NET <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="20" height="20"/>
-- Linux (Debian) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="20" height="20"/>
+- Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="20" height="20"/>
 
 </details>
 
@@ -47,7 +48,7 @@ A versatile software engineer with a passion for learning.
 
 *Details of significant projects are likely restricted by Non-Disclosure Agreements.
 
-## Connect with me
+## Connect
 
 <a href="https://www.linkedin.com/in/aaronbotto" title="Connect on LinkedIn"><img src="https://raw.githack.com/kaxlabs/CDN/main/linkedin-icon-512x512.png" alt="LinkedIn" width="64" height="64"></a>
 <a href="mailto:aaron@kaxon.dev" title="Send an email"><img src="https://raw.githack.com/kaxlabs/CDN/main/mailfence-icon-512x512.png" alt="Mailfence" width="64" height="64"></a>
