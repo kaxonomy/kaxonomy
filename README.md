@@ -46,7 +46,7 @@ probably debugging when I should be networking
 
 </details>
 
-*Details of significant projects are likely restricted by Non-Disclosure Agreements.
+*details of significant projects are typically restricted by NDAs
 
 ## Connect
 
