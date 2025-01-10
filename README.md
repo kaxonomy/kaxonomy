@@ -1,6 +1,6 @@
 ## About
 
-probably debugging when I should be networking
+probably debugging when I should be networking. NDA projects hidden
 
 ## Current Focus*
 
@@ -45,8 +45,6 @@ probably debugging when I should be networking
 - Cypress <img src="https://github.com/kaxlabs/CDN/blob/main/cypress-icon-512x511.png" alt="Cypress" width="20" height="20"/>
 
 </details>
-
-*details of significant projects are typically restricted by NDAs
 
 ## Connect
 
