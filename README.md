@@ -2,10 +2,10 @@
 
 probably debugging when I should be networking. NDA projects hidden
 
-## Current Focus*
+## Focus
 
 <details>
-<summary><strong>Programming Languages</strong></summary>
+<summary><strong>Languages</strong></summary>
 
 - Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/>
 - C# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/>
