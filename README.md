@@ -1,6 +1,6 @@
 ## About
 
-probably debugging when I should be networking. NDA projects hidden
+probably debugging when I should be networking
 
 ## Focus
 
