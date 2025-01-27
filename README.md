@@ -20,6 +20,7 @@ I’m here to make good projects great. Tell me about yours.
 <summary><strong>Tools and Platforms</strong></summary>
 
 - React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20"/>
+- Bootstrap <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="20" height="20"/>
 - Git <img src="https://raw.githack.com/kaxlabs/CDN/main/git-scm-icon.svg" alt="Git" width="20" height="20"/>
 - Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="20" height="20"/>
 - .NET <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="20" height="20"/>
