@@ -1,8 +1,8 @@
-## About
+## about
 
-probably debugging when I should be networking
+I’m here to make good projects great. Tell me about yours.
 
-## Focus
+## focus
 
 <details>
 <summary><strong>Languages</strong></summary>
@@ -46,7 +46,7 @@ probably debugging when I should be networking
 
 </details>
 
-## Connect
+## contact
 
 <a href="https://www.linkedin.com/in/aaronbotto" title="Connect on LinkedIn"><img src="https://raw.githack.com/kaxlabs/CDN/main/linkedin-icon-512x512.png" alt="LinkedIn" width="64" height="64"></a>
 <a href="mailto:aaron@kaxon.dev" title="Send an email"><img src="https://raw.githack.com/kaxlabs/CDN/main/mailfence-icon-512x512.png" alt="Mailfence" width="64" height="64"></a>
