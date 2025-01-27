@@ -1,6 +1,6 @@
 ## about
 
-I’m here to make good projects great. Tell me about yours.
+I’m here to make good projects great—Tell me about yours.
 
 ## focus
 
