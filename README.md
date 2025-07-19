@@ -2,6 +2,16 @@
 
 I make good projects great. Share yours.
 
+## portfolio
+
+<details>
+<summary><strong>Website Creations</strong></summary>
+
+<a href="https://westendbarbersalida.com" title="West End Barber"><img src="https://raw.githack.com/kaxlabs/CDN/main/westendbarber-snapshot-1846x2121.png" width="385" height="385"></a>
+<a href="https://limbuscombatguide.com" title="Limbus Company Combat Guide"><img src="https://raw.githack.com/kaxlabs/CDN/main/limbus-snapshot-1920x1779.png" width="385" height="385"></a>
+
+</details>
+
 ## focus
 
 <details>
